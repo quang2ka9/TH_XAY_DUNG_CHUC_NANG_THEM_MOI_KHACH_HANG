@@ -1,0 +1,7 @@
+{
+  "name": "TH_XAY_DUNG_CHUC_NANG_THEM_MOI_KHACH_HANG",
+  "version": "1.0.0",
+  "dependencies": {
+    "qs": "^6.11.0"
+  }
+}
